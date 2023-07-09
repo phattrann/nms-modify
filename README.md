@@ -1,1 +1,2 @@
-# vtest
+# Simply run
+python main.py
